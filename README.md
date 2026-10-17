@@ -9,6 +9,7 @@
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Funcionalidades](#-funcionalidades)
 - [Estrutura do Projeto](#-estrutura-do-projeto)
+- [Validação do Projeto](#-validacao-do-projeto)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Como Visualizar o Projeto](#-como-visualizar-o-projeto)
 - [Integrantes da Equipe](#-integrantes-da-equipe)
@@ -63,6 +64,13 @@ O repositório está organizado da seguinte forma:
  ┣ 📜 login.html
  ┗ 📜 README.md
 ```
+
+---
+
+## 💻 Validação do Projeto
+
+> Comprovante de validação da aplicação:
+![Print de Validação](imagens/validação/Validação-CSS.png)
 
 ---
 
