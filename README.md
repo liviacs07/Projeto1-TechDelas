@@ -69,8 +69,14 @@ O repositório está organizado da seguinte forma:
 
 ## 💻 Validação do Projeto
 
-> Comprovante de validação da aplicação:
+- Comprovante de validação CSS:
 ![Print de Validação](imagens/validação/Validação-CSS.png)
+
+- Comprovante de validação index:
+![Print de Validação](imagens/validação/Validação-Index.png)
+
+- Comprovante de validação login:
+![Print de Validação](imagens/validação/Validação-Login.png)
 
 ---
 
