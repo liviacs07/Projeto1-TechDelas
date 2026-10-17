@@ -9,7 +9,7 @@
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Funcionalidades](#-funcionalidades)
 - [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Validação do Projeto](#-validacao-do-projeto)
+- [Validação do Projeto](#-validação-do-Projeto)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Como Visualizar o Projeto](#-como-visualizar-o-projeto)
 - [Integrantes da Equipe](#-integrantes-da-equipe)
@@ -76,7 +76,7 @@ O repositório está organizado da seguinte forma:
 ![Print de Validação](imagens/validacao/index.png)
 
 - Comprovante de validação login:
-![Print de Validação](imagens/validaaoo/login.png)
+![Print de Validação](imagens/validacao/login.png)
 
 ---
 
